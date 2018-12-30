@@ -1,6 +1,4 @@
-
-// commnet
-// hello world
+//test merge conflict 2
 package main
 
 import "fmt"
