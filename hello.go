@@ -6,3 +6,4 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, 世界")
 }
+//comment from minxufan for merge test with squash
