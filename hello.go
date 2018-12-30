@@ -1,5 +1,6 @@
-// You can edit this code!
-// Click here and start typing.
+
+// commnet
+// hello world
 package main
 
 import "fmt"
